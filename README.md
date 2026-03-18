@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/416c659f-b341-46f7-9bf8-ed6b3c13bb95
+
 # 🤖 WhatsApp + Gemini AI + Odoo — Bot de Pedidos
 
 Recibe pedidos por WhatsApp, Gemini los entiende y los registra automáticamente en Odoo.
